@@ -1,0 +1,129 @@
+.langu
+{
+    height: 110px;
+}
+.lan
+{
+    height: 55px;
+}
+.navbar
+{
+    display: block;
+}
+.nav-midd-top
+{
+    font-size: 13px;
+    margin-left: -75px;
+}
+.mid-sec
+{
+    margin-left: 138px;
+}
+.menus
+{
+    font-size: 15px;
+}
+.search
+{
+    font-family: var(--bs-body-font-family);
+}
+.btn
+{
+    height: 40px;
+}
+@media (max-width: 991px)
+{
+    #first-nav
+    {
+        display: none;
+    }
+    #second-nav
+    {
+        display: block;
+    }
+}
+@media (min-width: 991px)
+{
+    #first-nav
+    {
+        display: block;
+    }
+    #second-nav
+    {
+        display: none;
+    }
+}
+.btn-sec
+{
+    font-size: 12px;
+    height: 27px;
+    width: 95px;
+    padding-top: 2px;
+    margin-right: -6px;
+    float: right;
+}
+#second-nav
+{
+    height: 45px;
+}
+.img-size
+{
+    width: 47px;
+    height: 37px;
+    margin-top: -12px;
+}
+.btn-size
+{
+    width: 23px;
+    height: 20px;
+    margin-top: 2px;
+    margin-left: 10px;
+    padding-left: 0px;
+    padding-top: 1px;
+}
+.icon-size
+{
+    width: 21px;
+    margin-top: -12px;
+}
+.dr-down
+{
+    transition: none;
+    background-color: #fff;
+    padding-left: 40px;
+}
+.foot
+{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.foots
+{
+    text-decoration: none;
+    color: black;
+}
+.icon-circle
+{
+    width: 32px;
+    height: 32px;
+    padding-top: 2px;
+    padding-left: 7px;
+}
+.app
+{
+    float: right;
+}
+.foot-left
+{
+    width: 75%;
+}
+.l-div
+{
+    line-height: 46px;   
+}
+.img-small
+{
+    width: 20px;
+    height: 20px;
+}
